@@ -1,0 +1,177 @@
+Country_Code,Country_Name,Mortality_Rate_2019,Risk_Category
+NLD,Netherlands,3.4,Low
+URY,Uruguay,4.4,Low
+BLR,Belarus,1.6,Low
+CRI,Costa Rica,2.9,Low
+BOL,Bolivia,14.3,Moderate
+KIR,Kiribati,37.4,High
+IRL,Ireland,2.7,Low
+LBR,Liberia,34.6,High
+VEN,"Venezuela, RB",5.2,Moderate
+LKA,Sri Lanka,4.8,Low
+LBN,Lebanon,2.4,Low
+COL,Colombia,3.4,Low
+KAZ,Kazakhstan,3.2,Low
+MMR,Myanmar,12.9,Moderate
+SVK,Slovak Republic,3.6,Low
+NOR,Norway,3.6,Low
+TKM,Turkmenistan,5.7,Moderate
+EST,Estonia,2.6,Low
+ITA,Italy,3.0,Low
+CZE,Czechia,4.1,Low
+GHA,Ghana,25.2,High
+COM,Comoros,43.8,High
+PAN,Panama,4.2,Low
+GMB,"Gambia, The",29.5,High
+PER,Peru,7.6,Moderate
+AZE,Azerbaijan,3.6,Low
+SLE,Sierra Leone,69.5,Very High
+CIV,Côte d’Ivoire,47.0,High
+CYP,Cyprus,1.6,Low
+SDN,Sudan,15.8,Moderate
+MKD,North Macedonia,1.0,Low
+TCD,Chad,99.2,Very High
+MWI,Malawi,30.8,High
+MDA,Moldova,3.6,Low
+BIH,Bosnia and Herzegovina,1.9,Low
+AUT,Austria,2.0,Low
+ALB,Albania,3.2,Low
+ZMB,Zambia,35.8,High
+BEL,Belgium,5.3,Moderate
+SUR,Suriname,7.1,Moderate
+BRB,Barbados,7.7,Moderate
+ARG,Argentina,11.4,Moderate
+NER,Niger,70.3,Very High
+IDN,Indonesia,15.8,Moderate
+JPN,Japan,8.4,Moderate
+MLT,Malta,4.6,Low
+GBR,United Kingdom,6.1,Moderate
+FSM,"Micronesia, Fed. Sts.",14.0,Moderate
+ISL,Iceland,2.4,Low
+LSO,Lesotho,108.1,Very High
+RUS,Russian Federation,3.2,Low
+QAT,Qatar,0.4,Low
+AFG,Afghanistan,16.6,Moderate
+MLI,Mali,66.1,Very High
+NAM,Namibia,28.8,High
+AGO,Angola,48.9,High
+NZL,New Zealand,2.1,Low
+RWA,Rwanda,25.0,High
+KGZ,Kyrgyz Republic,2.3,Low
+BHS,"Bahamas, The",2.6,Low
+KWT,Kuwait,0.8,Low
+PRT,Portugal,6.8,Moderate
+SVN,Slovenia,1.9,Low
+HRV,Croatia,2.7,Low
+GTM,Guatemala,15.3,Moderate
+TJK,Tajikistan,9.0,Moderate
+TLS,Timor-Leste,20.4,High
+SYC,Seychelles,8.4,Moderate
+VUT,Vanuatu,25.0,High
+HND,Honduras,7.1,Moderate
+POL,Poland,5.4,Moderate
+MDV,Maldives,2.3,Low
+MOZ,Mozambique,45.6,High
+VCT,St. Vincent and the Grenadines,5.3,Moderate
+DEU,Germany,3.2,Low
+SRB,Serbia,3.9,Low
+TON,Tonga,7.1,Moderate
+MRT,Mauritania,37.8,High
+ATG,Antigua and Barbuda,2.5,Low
+SEN,Senegal,31.7,High
+GNQ,Equatorial Guinea,29.7,High
+GNB,Guinea-Bissau,49.4,High
+BWA,Botswana,26.8,High
+AUS,Australia,1.9,Low
+IRN,"Iran, Islamic Rep.",2.9,Low
+CPV,Cabo Verde,12.1,Moderate
+LVA,Latvia,2.6,Low
+BEN,Benin,60.2,Very High
+VNM,Vietnam,6.9,Moderate
+FJI,Fiji,10.8,Moderate
+KEN,Kenya,29.0,High
+ESP,Spain,3.2,Low
+BGD,Bangladesh,18.2,Moderate
+FIN,Finland,0.8,Low
+TZA,Tanzania,30.2,High
+ETH,Ethiopia,40.7,High
+ECU,Ecuador,4.7,Low
+SSD,South Sudan,68.1,Very High
+SWE,Sweden,3.0,Low
+PHL,Philippines,16.9,Moderate
+BGR,Bulgaria,2.9,Low
+BRN,Brunei Darussalam,1.7,Low
+CHE,Switzerland,2.5,Low
+BDI,Burundi,53.3,Very High
+LCA,St. Lucia,5.8,Moderate
+PRK,"Korea, Dem. People's Rep.",4.1,Low
+MEX,Mexico,3.5,Low
+SLV,El Salvador,6.1,Moderate
+BTN,Bhutan,15.7,Moderate
+NPL,Nepal,17.8,Moderate
+LTU,Lithuania,2.6,Low
+PRY,Paraguay,4.6,Low
+HUN,Hungary,2.0,Low
+ERI,Eritrea,66.5,Very High
+YEM,"Yemen, Rep.",15.6,Moderate
+NIC,Nicaragua,3.5,Low
+GIN,Guinea,57.8,Very High
+OMN,Oman,1.6,Low
+DZA,Algeria,4.1,Low
+CMR,Cameroon,47.3,High
+MAR,Morocco,4.6,Low
+KHM,Cambodia,17.1,Moderate
+NGA,Nigeria,71.7,Very High
+ARM,Armenia,5.8,Moderate
+BLZ,Belize,4.3,Low
+MUS,Mauritius,5.5,Moderate
+BRA,Brazil,6.6,Moderate
+WSM,Samoa,8.2,Moderate
+DOM,Dominican Republic,5.8,Moderate
+USA,United States,2.3,Low
+SLB,Solomon Islands,32.7,High
+MDG,Madagascar,40.1,High
+GRD,Grenada,6.7,Moderate
+LBY,Libya,2.2,Low
+PAK,Pakistan,38.8,High
+JAM,Jamaica,2.3,Low
+ZWE,Zimbabwe,36.2,High
+DNK,Denmark,4.1,Low
+HTI,Haiti,25.9,High
+IRQ,Iraq,4.4,Low
+CHL,Chile,2.3,Low
+TUN,Tunisia,3.1,Low
+ISR,Israel,2.0,Low
+SOM,"Somalia, Federal Republic of",99.2,Very High
+TGO,Togo,42.4,High
+GRC,Greece,7.6,Moderate
+DJI,Djibouti,37.6,High
+ROU,Romania,7.2,Moderate
+JOR,Jordan,1.9,Low
+TUR,Türkiye,2.5,Low
+COG,"Congo, Rep.",26.4,High
+UGA,Uganda,28.1,High
+GEO,Georgia,3.3,Low
+MYS,Malaysia,14.4,Moderate
+CUB,Cuba,9.7,Moderate
+CHN,China,2.2,Low
+LAO,Lao PDR,20.5,High
+IND,India,36.4,High
+BFA,Burkina Faso,60.9,Very High
+UKR,Ukraine,2.3,Low
+GUY,Guyana,8.6,Moderate
+CAN,Canada,2.3,Low
+THA,Thailand,11.8,Moderate
+MNE,Montenegro,1.8,Low
+COD,"Congo, Dem. Rep.",52.3,Very High
+UZB,Uzbekistan,2.9,Low
+KOR,"Korea, Rep.",5.2,Moderate
+FRA,France,3.4,Low
+SGP,Singapore,8.5,Moderate
+GAB,Gabon,17.5,Moderate
+PNG,Papua New Guinea,24.9,High
+STP,São Tomé and Príncipe,16.7,Moderate
+MNG,Mongolia,3.2,Low
+BHR,Bahrain,0.8,Low
+SWZ,Eswatini,46.5,High
+LUX,Luxembourg,1.9,Low
