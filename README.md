@@ -32,7 +32,17 @@ Live Streamlit Application: [WASH Mortality Dashboard](https://wash-mortality-da
 ## Local Setup & Installation
 
 1. **Clone the repository**:
-   git clone [https://github.com/AzmaLahir/wash-mortality-dashboard.git](https://github.com/AzmaLahir/wash-mortality-dashboard.git)
-cd wash-mortality-dashboard
+   ```bash
    git clone [https://github.com/AzmaLahir/wash-mortality-dashboard.git](https://github.com/AzmaLahir/wash-mortality-dashboard.git)
    cd wash-mortality-dashboard
+   ```
+
+2. **Install required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Streamlit app locally**:
+   ```bash
+   streamlit run app.py
+   ```
