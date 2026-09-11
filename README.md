@@ -29,13 +29,13 @@ Live Streamlit Application: [WASH Mortality Dashboard](https://wash-mortality-da
 - **Source**: World Bank Data360 Platform (`WB WDI SH STA WASH P5`)
 - **Scope**: 176 country records across 4 primary features (`Country_Code`, `Country_Name`, `Mortality_Rate_2019`, `Risk_Category`).
 
+
 ## Local Setup & Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/AzmaLahir/wash-mortality-dashboard.git
-cd wash-mortality-dashboard
-   ```
+   cd wash-mortality-dashboard
 
 2. **Install required dependencies**:
    ```bash
